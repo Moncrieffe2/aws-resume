@@ -4,7 +4,7 @@ Welcome to my take on the #CloudResumeChallenge! This was more than just a proje
 
 I'm looking to continue learning and increasing my skillset. This challenge let me tie it all together — HTML, S3, Lambda, and DynamoDB — all on one resume. Let's dive in. 😎
 
-🚧 What I Built
+# What I Built
 
 ✅ A responsive HTML/CSS resume hosted on AWS S3
 
@@ -14,7 +14,7 @@ I'm looking to continue learning and increasing my skillset. This challenge let 
 
 ✅ CI/CD pipeline with GitHub Actions
 
-📋 Step-by-Step Build Process
+# Step-by-Step Build Process
 
 1. HTML + CSS Resume
 
@@ -54,11 +54,11 @@ Pushed all code to GitHub
 
 Set up Actions to auto-deploy frontend and backend on push
 
-🧱 Architecture Diagram
+# Architecture Diagram
 
+![Image](https://github.com/user-attachments/assets/63796b1b-79bb-4636-934f-0b703625780d)
 
-
-Challenges I Hit
+# Challenges I Hit
 
 CORS issues with API Gateway (fun times 🤦🏾‍♂️)
 
