@@ -6,3 +6,18 @@ async function updateCounter() {
 }
 
 updateCounter();
+
+
+  const text = "Hello, my name is Anthony";
+  const typingTarget = document.getElementById("typing-text");
+  let i = 0;
+
+  function typeWriter() {
+    if (i < text.length) {
+      typingTarget.innerHTML += text.charAt(i);
+      i++;
+      setTimeout(typeWriter, 100);
+    }
+  }
+
+  window.onload = typeWriter;
