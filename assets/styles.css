@@ -359,3 +359,14 @@ li + li {
     font-size: 42px;
   }
 }
+
+.counter-text {
+  margin-top: 20px;
+  font-size: 1rem;
+  color: #bfc7d5;
+}
+
+.counter-number {
+  color: #ffffff;
+  font-weight: 700;
+}
